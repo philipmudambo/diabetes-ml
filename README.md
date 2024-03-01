@@ -6,7 +6,7 @@ This project aims to develop and evaluate machine learning models for predicting
 
 **Dataset**
 
-* The project utilizes the Pima Indians Diabetes Database available on ([Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)).
+* The project utilizes the Pima Indians Diabetes Database available on [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
 * Description of dataset attributes:
     * Pregnancies: Number of times pregnant.
     * Glucose: Plasma glucose concentration.
