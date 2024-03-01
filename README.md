@@ -1,4 +1,4 @@
-**Project Title: Diabetes-Predict**
+**Project Title: Diabetes Prediction**
 
 **Overview**
 
@@ -6,7 +6,7 @@ This project aims to develop and evaluate machine learning models for predicting
 
 **Dataset**
 
-* The project utilizes the Pima Indians Diabetes Database available on Kaggle ([https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)).
+* The project utilizes the Pima Indians Diabetes Database available on ([Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)).
 * Description of dataset attributes:
     * Pregnancies: Number of times pregnant.
     * Glucose: Plasma glucose concentration.
@@ -31,8 +31,6 @@ This project aims to develop and evaluate machine learning models for predicting
       * Logistic Regression
       * Decision Trees
       * Random Forests
-      * Support Vector Machines
-      * Neural Networks (if applicable)
 5. **Evaluation**
    * Using metrics like accuracy, precision, recall, F1-score, and ROC-AUC curve.
    * Cross-validation for robust evaluation.
@@ -41,10 +39,7 @@ This project aims to develop and evaluate machine learning models for predicting
 
 **Project Structure**
 
-* `data/`
-   * `diabetes.csv` - The raw dataset.
-* `notebook(s)/`
-   * `The available .ipynb file contains the data preprocessing, exploratory data analysis, model training, and model evaluation`
-  * `model.pkl` – Saved trained model (to be worked on).
+* `diabetes.csv` - The raw dataset.
+*  The available `.ipynb` file contains the data preprocessing, exploratory data analysis, model training, and model evaluation.
 
 
